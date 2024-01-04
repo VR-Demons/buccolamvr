@@ -1,0 +1,5 @@
+[lfs]
+url = https://hev4auz4ta.execute-api.us-west-1.amazonaws.com/lfs
+activitytimeout = 60
+tlstimeout = 60
+dialtimeout = 60
