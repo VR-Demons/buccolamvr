@@ -57,6 +57,10 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
+		},
+		{
+			"Name": "Seurat",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
